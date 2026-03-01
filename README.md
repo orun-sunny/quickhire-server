@@ -1,5 +1,5 @@
 
-# Job Board Backend
+# Job quick hire
 
 A Node.js + Express.js backend for a job board with MongoDB.
 
